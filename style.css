@@ -1,0 +1,16 @@
+/* 
+    Created on : Jan 28, 2025
+    Author     : Samhita
+*/
+
+#hoverLink:hover {
+    color: #2c4bff;
+}
+
+#hoverLink {
+    cursor: pointer;
+}
+
+#none, #none:visited, #none:hover, #none:active {
+  color: inherit;
+}
