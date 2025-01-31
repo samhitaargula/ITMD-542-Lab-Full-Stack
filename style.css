@@ -52,7 +52,21 @@ body {
 }
 
 #mb-small{
-  margin-bottom: 50px;
+  margin-bottom: 3 0px;
+}
+
+.tag-cloud {
+  display: inline-block;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 25px;
+  background-color: #d87093;
+  margin-top: 8px;
+}
+
+#check{
+  width: 200px;
+  height: 200px;
 }
 
 /*
@@ -79,7 +93,7 @@ body {
 }
 
 #hoverLink:hover {
-    color: #d87093;
+    color: #ffff00;
 }
 
 #hoverLink {
